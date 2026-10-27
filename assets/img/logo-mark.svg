@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 84" role="img" aria-label="Tower Land Contracting">
+  <g fill="#C6A24A">
+    <!-- left tower + fins -->
+    <path d="M22 32 32 27V75.5H22Z"/>
+    <rect x="34.2" y="36" width="1.5" height="39.5"/>
+    <rect x="36.9" y="36" width="1.5" height="39.5"/>
+    <rect x="39.6" y="36" width="1.5" height="39.5"/>
+    <!-- centre tower + fins -->
+    <path d="M43 8 54 2V75H43Z"/>
+    <rect x="56.2" y="10" width="1.5" height="65"/>
+    <rect x="58.9" y="10" width="1.5" height="65"/>
+    <rect x="61.6" y="10" width="1.5" height="65"/>
+    <rect x="64.3" y="10" width="1.5" height="65"/>
+    <!-- right tower + fins -->
+    <path d="M69 26 80 21V75H69Z"/>
+    <rect x="82.2" y="30" width="1.5" height="45"/>
+    <rect x="84.9" y="30" width="1.5" height="45"/>
+    <rect x="87.6" y="30" width="1.5" height="45"/>
+    <!-- ground arc -->
+    <path d="M4 80Q60 62 116 80Q60 70 4 80Z"/>
+  </g>
+</svg>
